@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ionmusic/KazuMusicBot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/ionmusic/KazuMusicBot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ionmusic/KazuMusicBot/stargazers"><img src="https://img.shields.io/github/stars/ionmusic/KazuMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ionmusic/KazuMusicBot/network/members"> <img src="https://img.shields.io/github/forks/ionmusic/KazuMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/ionmusic/KazuMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/ionmusic/KazuMusicBot/commits/ionmusic"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://telegra.ph/file/8fee06afc6cfe471ea1c2.jpg">
 </p>
 
 <h3 align="center">
