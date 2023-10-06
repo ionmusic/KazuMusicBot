@@ -21,7 +21,7 @@ from KazuMusic.utils.database import (get_active_chats,
                                        remove_active_chat,
                                        remove_active_video_chat)
 from KazuMusic.utils.decorators.language import language
-from KazuMusic.utils.pastebin import Anonbin
+from KazuMusic.utils.pastebin import Kazubin
 
 # Commands
 GETLOG_COMMAND = get_command("GETLOG_COMMAND")
