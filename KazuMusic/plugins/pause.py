@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS
 from strings import get_command
 from KazuMusic import app
-from KazuMusic.core.call import Anon
+from KazuMusic.core.call import Kazu
 from KazuMusic.utils.database import is_music_playing, music_off
 from KazuMusic.utils.decorators import AdminRightsCheck
 from KazuMusic.utils.inline.play import close_keyboard
