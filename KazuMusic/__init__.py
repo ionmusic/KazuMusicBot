@@ -1,4 +1,4 @@
-from KazuMusic.core.bot import KazuMusicBot
+from KazuMusic.core.bot import KazuMusic
 from KazuMusic.core.dir import dirr
 from KazuMusic.core.git import git
 from KazuMusic.core.userbot import Userbot
@@ -18,7 +18,7 @@ heroku()
 sudo()
 
 # Clients
-app = KazuMusicBot()
+app = KazuMusic()
 userbot = Userbot()
 
 
