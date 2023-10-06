@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS
 from strings import get_command
 from KazuMusic import YouTube, app
-from KazuMusic.core.call import Anon
+from KazuMusic.core.call import Kazu
 from KazuMusic.misc import db
 from KazuMusic.utils import AdminRightsCheck, seconds_to_min
 
