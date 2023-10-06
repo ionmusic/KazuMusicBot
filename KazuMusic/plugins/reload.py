@@ -6,7 +6,7 @@ from pyrogram.types import CallbackQuery, Message
 from config import BANNED_USERS, MUSIC_BOT_NAME, adminlist, lyrical
 from strings import get_command
 from KazuMusic import app
-from KazuMusic.core.call import Anon
+from KazuMusic.core.call import Kazu
 from KazuMusic.misc import db
 from KazuMusic.utils.database import get_authuser_names, get_cmode
 from KazuMusic.utils.decorators import (ActualAdminCB, AdminActual,
