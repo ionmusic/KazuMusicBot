@@ -11,7 +11,7 @@ from config import (AUTO_DOWNLOADS_CLEAR, BANNED_USERS,
                     TELEGRAM_AUDIO_URL, TELEGRAM_VIDEO_URL,
                     MUSIC_BOT_NAME, adminlist)
 from KazuMusic import YouTube, app
-from KazuMusic.core.call import Anon
+from KazuMusic.core.call import Kazu
 from KazuMusic.misc import SUDOERS, db
 from KazuMusic.utils import bot_sys_stats
 from KazuMusic.utils.database import (
