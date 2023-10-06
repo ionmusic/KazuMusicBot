@@ -3,7 +3,7 @@ from datetime import datetime
 
 import config
 from KazuMusic import app
-from KazuMusic.core.call import Anon, autoend
+from KazuMusic.core.call import Kazu, autoend
 from KazuMusic.utils.database import (get_client, is_active_chat,
                                        is_autoend)
 
