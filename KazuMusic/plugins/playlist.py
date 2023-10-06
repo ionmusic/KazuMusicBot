@@ -17,7 +17,7 @@ from KazuMusic.utils.inline.play import close_keyboard
 from KazuMusic.utils.inline.playlist import (botplaylist_markup,
                                               get_playlist_markup,
                                               warning_markup)
-from KazuMusic.utils.pastebin import Anonbin
+from KazuMusic.utils.pastebin import Kazubin
 from KazuMusic.utils.stream.stream import stream
 
 # Command
