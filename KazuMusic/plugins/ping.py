@@ -6,7 +6,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS, MUSIC_BOT_NAME, PING_IMG_URL
 from strings import get_command
 from KazuMusic import app
-from KazuMusic.core.call import Anon
+from KazuMusic.core.call import Kazu
 from KazuMusic.utils import bot_sys_stats
 from KazuMusic.utils.decorators.language import language
 from KazuMusic.utils.inline.play import close_keyboard
