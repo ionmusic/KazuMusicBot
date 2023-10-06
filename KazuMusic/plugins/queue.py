@@ -11,7 +11,7 @@ from config import BANNED_USERS
 from strings import get_command
 from KazuMusic import app
 from KazuMusic.misc import db
-from KazuMusic.utils import (Anonbin, get_channeplayCB,
+from KazuMusic.utils import (Kazubin, get_channeplayCB,
                               seconds_to_min)
 from KazuMusic.utils.database import (get_cmode, is_active_chat,
                                        is_music_playing)
